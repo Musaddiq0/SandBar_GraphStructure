@@ -25,8 +25,8 @@ public:
 protected:
     static void displayTitle() {
         std::cout << "Title: Bar Graph Sand Problem\n";
-        std::cout << "Name: Junior Trust\n";
-        std::cout << "SID NO: 301\n\n";
+        std::cout << "Name: Sadiq Musaddique\n";
+        std::cout << "SID NO: 9766103\n\n";
     }
 
     void getUserInput() {
